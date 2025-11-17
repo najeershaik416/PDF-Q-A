@@ -33,3 +33,6 @@ groq
 python-dotenv
 
 sentence-transformers
+
+langchain-huggingface
+
